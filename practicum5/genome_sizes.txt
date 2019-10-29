@@ -1,0 +1,811 @@
+Common Name	C-value	Order	
+Cape golden mole	6.32	Afrosoricida	
+Golden mole	4.10	Afrosoricida	
+Addax	3.98	Artiodactyla	
+Impala	4.69	Artiodactyla	
+Buffalo	4.90	Artiodactyla	
+Hariana cattle	3.31	Artiodactyla	
+Banteng	3.75	Artiodactyla	
+Domestic cattle	3.15	Artiodactyla	
+Domestic cattle	3.43	Artiodactyla	
+Domestic cattle	3.57	Artiodactyla	
+Domestic cattle	3.60	Artiodactyla	
+Domestic cattle	3.65	Artiodactyla	
+Domestic cattle	3.70	Artiodactyla	
+Domestic cattle	3.73	Artiodactyla	
+Domestic cattle	3.79	Artiodactyla	
+Domestic cattle	3.93	Artiodactyla	
+Markhor	3.23	Artiodactyla	
+Domestic goat	3.24	Artiodactyla	
+Dama gazelle	3.48	Artiodactyla	
+Grant's gazelle	3.30	Artiodactyla	
+Gerenuk	3.66	Artiodactyla	
+Sheep	2.34	Artiodactyla	
+Sheep	2.57	Artiodactyla	
+Sheep	3.30	Artiodactyla	
+Sheep	3.33	Artiodactyla	
+Sheep	3.50	Artiodactyla	
+Sheep	3.41	Artiodactyla	
+Lowland nyala	3.94	Artiodactyla	
+Bactrian camel	2.41	Artiodactyla	
+Two-humped camel	2.86	Artiodactyla	
+Dromedary camel	2.62	Artiodactyla	
+One-humped camel	2.97	Artiodactyla	
+Llama	3.25	Artiodactyla	
+Guanaco	3.21	Artiodactyla	
+Vicu±a	3.24	Artiodactyla	
+Barking deer	1.94	Artiodactyla	
+Barking deer	3.15	Artiodactyla	
+Barking deer	3.44	Artiodactyla	
+Barking deer	3.32	Artiodactyla	
+Indian muntjac	2.22	Artiodactyla	
+Indian muntjac	2.53	Artiodactyla	
+Indian muntjac	3.01	Artiodactyla	
+Reeves's (Chinese) muntjac	2.85	Artiodactyla	
+Reeves's (Chinese) muntjac	3.13	Artiodactyla	
+Reindeer. caribou	3.41	Artiodactyla	
+Giraffe	2.85	Artiodactyla	
+Reticulated giraffe	2.69	Artiodactyla	
+Domestic pig	2.98	Artiodactyla	
+Domestic pig	2.99	Artiodactyla	
+Domestic pig	3.00	Artiodactyla	
+Domestic pig	3.03	Artiodactyla	
+Domestic pig	3.15	Artiodactyla	
+Domestic pig	3.21	Artiodactyla	
+Domestic pig	3.47	Artiodactyla	
+Domestic pig	3.51	Artiodactyla	
+Vietnamese pot-bellied pig	2.81	Artiodactyla	
+Domestic dog	2.80	Carnivora	
+Domestic dog	2.85	Carnivora	
+Domestic dog	3.88	Carnivora	
+Domestic dog	2.96	Carnivora	
+Domestic dog	3.09	Carnivora	
+Domestic dog	3.19	Carnivora	
+Domestic dog	3.60	Carnivora	
+Domestic dog	3.26	Carnivora	
+Domestic dog	3.43	Carnivora	
+Domestic dog	3.84	Carnivora	
+Coyote	2.82	Carnivora	
+Timber wolf	2.81	Carnivora	
+Red wolf	3.04	Carnivora	
+African hunting dog	3.23	Carnivora	
+Chinese raccoon dog	3.27	Carnivora	
+Japanese raccoon dog	3.89	Carnivora	
+Gray fox	3.07	Carnivora	
+Red fox	2.85	Carnivora	
+Cheetah	2.56	Carnivora	
+Domestic cat	3.46	Carnivora	
+Domestic cat	3.61	Carnivora	
+Domestic cat	3.50	Carnivora	
+Domestic cat	3.42	Carnivora	
+Domestic cat	3.45	Carnivora	
+Cougar	3.05	Carnivora	
+Lynx	2.92	Carnivora	
+Wildcat	2.92	Carnivora	
+Wildcat	3.00	Carnivora	
+Clouded leopard	3.77	Carnivora	
+African lion	2.95	Carnivora	
+Asian lion	3.83	Carnivora	
+Tiger	2.71	Carnivora	
+Siberian tiger	2.58	Carnivora	
+Bengal tiger	2.72	Carnivora	
+Bengal tiger	2.90	Carnivora	
+Snow leopard	3.24	Carnivora	
+Least weasel	3.68	Carnivora	
+Domestic ferret	2.81	Carnivora	
+California sea lion	3.85	Carnivora	
+Spotted seal / Largha seal	3.94	Carnivora	
+Raccoon	2.85	Carnivora	
+Brown bear	2.75	Carnivora	
+Himalayan black bear	2.75	Carnivora	
+Bowhead whale	2.93	Cetacea	
+Chinese white dolphin	3.46	Cetacea	
+Bottlenose dolphin	3.03	Cetacea	
+Bottlenose dolphin	3.27	Cetacea	
+Chinese river dolphin / Baiji	3.91	Cetacea	
+Beluga whale	3.29	Cetacea	
+Yangtze finless porpoise	3.46	Cetacea	
+Greater sac-winged bat	3.16	Chiroptera	
+Tomb bat	2.18	Chiroptera	
+Sundevall's leaf-nosed bat	2.44	Chiroptera	
+Commerson's leaf-nosed bat	2.48	Chiroptera	
+Cyclops leaf-nosed bat	2.72	Chiroptera	
+Noack's leaf-nosed bat	2.65	Chiroptera	
+Heart-nosed bat	2.72	Chiroptera	
+Yellow-winged bat	2.35	Chiroptera	
+Nigerian free-tailed bat	2.47	Chiroptera	
+Little free-tailed bat	2.40	Chiroptera	
+Greater bonneted bat	2.84	Chiroptera	
+Mastiff bat	2.57	Chiroptera	
+Pallas's mastiff bat	2.41	Chiroptera	
+Black mastiff bat	2.72	Chiroptera	
+Roberts's flat-headed bat	2.32	Chiroptera	
+Mexican free-tailed bat	2.94	Chiroptera	
+Peters's ghost-faced bat	2.83	Chiroptera	
+Davy's naked-backed bat	2.28	Chiroptera	
+Common mustached bat	2.35	Chiroptera	
+Common mustached bat	2.63	Chiroptera	
+Parnell's moustached bat	2.67	Chiroptera	
+Parnell's mustached bat	2.71	Chiroptera	
+Moustached bat	2.84	Chiroptera	
+Wagner's mustached bat	2.43	Chiroptera	
+Wagner's mustached bat	2.35	Chiroptera	
+Greater funnel-eared bat	2.30	Chiroptera	
+Lesser bulldog bat	2.28	Chiroptera	
+Greater bulldog bat	2.37	Chiroptera	
+Greater bulldog bat	2.63	Chiroptera	
+Bates's slit-faced bat	2.83	Chiroptera	
+Hairy slit-faced bat	2.81	Chiroptera	
+Dja slit-faced bat	2.66	Chiroptera	
+Tailed tailless bat	2.63	Chiroptera	
+Tailed tailless bat	2.73	Chiroptera	
+Geoffroy's tailless bat	2.63	Chiroptera	
+Geoffroy's tailless bat	2.64	Chiroptera	
+Gervais's fruit-eating bat	2.44	Chiroptera	
+Silver fruit-eating bat	2.58	Chiroptera	
+Hairy fruit-eating bat	2.28	Chiroptera	
+Intermediate fruit-eating bat	2.43	Chiroptera	
+Jamaican fruit-eating bat	2.56	Chiroptera	
+Jamaican fruit-eating bat	2.63	Chiroptera	
+Jamaican fruit-eating bat	2.65	Chiroptera	
+Jamaican fruit-eating bat	2.73	Chiroptera	
+Jamaican fruit-eating bat	2.74	Chiroptera	
+Big fruit bat	2.70	Chiroptera	
+Great fruit-eating bat	2.57	Chiroptera	
+Dark fruit-eating bat	2.44	Chiroptera	
+Short-tailed fruit bat	2.93	Chiroptera	
+Silky short-tailed bat	2.48	Chiroptera	
+Silky short-tailed bat	2.98	Chiroptera	
+Chestnut short-tailed bat	2.54	Chiroptera	
+Seba's short-tailed bat	2.63	Chiroptera	
+Seba's short-tailed bat	2.90	Chiroptera	
+Seba's short-tailed bat	2.92	Chiroptera	
+Short-tailed fruit bat	2.67	Chiroptera	
+Short-tailed fruit bat	3.06	Chiroptera	
+Wrinkle-faced bat	2.73	Chiroptera	
+Hairy big-eyed bat	2.67	Chiroptera	
+Mexican long-tongued bat	2.35	Chiroptera	
+Woolly false vampire bat	2.53	Chiroptera	
+Dwarf fruit bat	2.85	Chiroptera	
+Dwarf fruit bat	2.71	Chiroptera	
+Dwarf fruit bat	2.73	Chiroptera	
+Common vampire bat	2.39	Chiroptera	
+Common vampire bat	2.66	Chiroptera	
+Common vampire bat	2.68	Chiroptera	
+Miller's long-tongued bat	2.22	Chiroptera	
+Pallas's long-tongued bat	2.34	Chiroptera	
+Pallas's long-tongued bat	2.74	Chiroptera	
+Pallas's long-tongued bat	2.78	Chiroptera	
+Pallas's long-tongued bat	2.78	Chiroptera	
+Mexican long-nosed bat	2.36	Chiroptera	
+Dark long-tongued bat	2.72	Chiroptera	
+Tomes's sword-nosed bat	2.25	Chiroptera	
+Tomes's sword-nosed bat	2.41	Chiroptera	
+Tomes's sword-nosed bat	2.56	Chiroptera	
+Carriker's round-eared bat	1.63	Chiroptera	
+Long-legged bat	3.29	Chiroptera	
+Waterhouse's leaf-nosed bat	2.67	Chiroptera	
+Hairy big-eared bat	2.24	Chiroptera	
+Cozumel spear-nosed bat	2.47	Chiroptera	
+Cozumelan golden bat	2.30	Chiroptera	
+Striped hairy-nosed bat	2.19	Chiroptera	
+Pale-faced bat	2.22	Chiroptera	
+Peters's spear-nosed bat	2.45	Chiroptera	
+Pale spear-nosed bat	2.52	Chiroptera	
+Pale spear-nosed bat	2.58	Chiroptera	
+Greater spear-nosed bat	2.60	Chiroptera	
+Greater spear-nosed bat	2.62	Chiroptera	
+Heller's broad-nosed bat	2.63	Chiroptera	
+Shadowy broad-nosed bat	2.77	Chiroptera	
+Shadowy broad-nosed bat	2.78	Chiroptera	
+Greater broad-nosed bat	2.65	Chiroptera	
+Greater broad-nosed bat	2.65	Chiroptera	
+White-lined broad-nosed bat	2.43	Chiroptera	
+Ipanema broad-nosed bat	2.47	Chiroptera	
+Hairy yellow-shouldered bat	2.82	Chiroptera	
+Hairy yellow-shouldered bat	2.90	Chiroptera	
+Common yellow-shouldered bat	2.75	Chiroptera	
+Common yellow-shouldered bat	2.84	Chiroptera	
+Little yellow-shouldered bat	2.54	Chiroptera	
+Little yellow-shouldered bat	2.61	Chiroptera	
+Highland yellow-shouldered bat	2.82	Chiroptera	
+Highland yellow-shouldered bat	2.88	Chiroptera	
+Tilda Yellow-shouldered bat	2.68	Chiroptera	
+Tilda's yellow-shouldered bat	2.53	Chiroptera	
+Greater round-eared bat	2.27	Chiroptera	
+Round-eared bat	2.35	Chiroptera	
+Davis's round-eared bat	2.51	Chiroptera	
+Fringe-lipped bat	2.22	Chiroptera	
+Frog-eating bat	2.41	Chiroptera	
+Niceforo's bat	2.32	Chiroptera	
+Common tent-making bat	2.42	Chiroptera	
+Tent-building bat	2.67	Chiroptera	
+Little Yellow-eared bat	2.80	Chiroptera	
+Little yellow-eared bat	2.83	Chiroptera	
+Yellow-eared bat	2.73	Chiroptera	
+Great stripe-faced bat	2.49	Chiroptera	
+Pygmy fruit bat	2.15	Chiroptera	
+Spotted-winged fruit bat	2.07	Chiroptera	
+Black-capped fruit bat	2.10	Chiroptera	
+Horsfields fruit bat	2.28	Chiroptera	
+Greater short-nosed fruit bat	2.27	Chiroptera	
+Lesser short-nosed fruit bat	2.14	Chiroptera	
+Moluccan naked-backed fruit bat	2.23	Chiroptera	
+Dyak fruit bat	2.27	Chiroptera	
+African straw-coloured fruit bat	2.03	Chiroptera	
+Straw-colored fruit bat	1.86	Chiroptera	
+Lesser dawn bat	2.23	Chiroptera	
+Gambian epauletted fruit bat	2.04	Chiroptera	
+Epauletted fruit bat	2.18	Chiroptera	
+Epauletted fruit bat	2.18	Chiroptera	
+Hammer-headed fruit bat	2.42	Chiroptera	
+Angolan soft-furred fruit bat	2.30	Chiroptera	
+Dagger-toothed long-nosed fruit bat	2.00	Chiroptera	
+Greater long-nosed fruit bat	2.15	Chiroptera	
+Temmincks tailless fruit bat	2.20	Chiroptera	
+Javan tailless fruit bat	2.03	Chiroptera	
+Ratanaworabhans fruit bat	2.26	Chiroptera	
+Woermanns long-tongued fruit bat	2.18	Chiroptera	
+Fruit bat	2.27	Chiroptera	
+Peters lesser epauletted fruit bat	2.23	Chiroptera	
+Collared fruit bat	2.19	Chiroptera	
+Veldkamps dwarf epauletted fruit bat	2.27	Chiroptera	
+Lucas short-nosed fruit bat	2.23	Chiroptera	
+Spectacled flying fox	2.34	Chiroptera	
+Flying fox	2.22	Chiroptera	
+Indian flying fox	2.18	Chiroptera	
+Variable flying fox	2.33	Chiroptera	
+Lyles flying fox	2.51	Chiroptera	
+Great flying fox	2.21	Chiroptera	
+Gray-headed flying fox	2.32	Chiroptera	
+Little golden-mantled flying fox	2.32	Chiroptera	
+Rodrigues flying fox	2.23	Chiroptera	
+Large flying fox	2.37	Chiroptera	
+Egyptian rousette	2.11	Chiroptera	
+Geoffroys rousette	2.29	Chiroptera	
+Long-haired rousette	2.20	Chiroptera	
+Leschenaults rousette	2.20	Chiroptera	
+Zenkers fruit bat	2.14	Chiroptera	
+Blanfords fruit bat	2.08	Chiroptera	
+Blossom bat	2.07	Chiroptera	
+Little horseshoe bat	2.41	Chiroptera	
+Darling's horseshoe bat	2.33	Chiroptera	
+Mediterranean horseshoe bat	1.87	Chiroptera	
+Greater horseshoe bat	1.96	Chiroptera	
+Greater horseshoe bat	2.04	Chiroptera	
+Greater horseshoe bat	2.68	Chiroptera	
+Lesser horseshoe bat	1.92	Chiroptera	
+Lander's horseshoe bat	2.26	Chiroptera	
+Lesser mouse-tailed bat	3.17	Chiroptera	
+Pallid bat	2.67	Chiroptera	
+Barbastelle bat	2.20	Chiroptera	
+Van gelder's bat	2.62	Chiroptera	
+Gould's wattled bat	2.29	Chiroptera	
+Chocolate wattled bat	2.45	Chiroptera	
+Botta's serotine	2.46	Chiroptera	
+Brazilian brown bat	2.36	Chiroptera	
+Brazilian brown bat	2.55	Chiroptera	
+Diminutive serotine	2.74	Chiroptera	
+Big brown bat	2.34	Chiroptera	
+Big brown bat	2.43	Chiroptera	
+Big brown bat	2.63	Chiroptera	
+Big brown bat	2.70	Chiroptera	
+Big brown bat	2.25	Chiroptera	
+Big brown bat	2.32	Chiroptera	
+Big brown bat	2.43	Chiroptera	
+Long-tailed serotine	2.37	Chiroptera	
+Common serotine	2.38	Chiroptera	
+Beatrix butterfly bat	2.13	Chiroptera	
+Lesser hairy-winged bat	2.41	Chiroptera	
+Blanford's bat	2.54	Chiroptera	
+Tickell's bat	2.83	Chiroptera	
+Big-eared brown bat	2.37	Chiroptera	
+Damara woolly bat	2.30	Chiroptera	
+Botswanan long-eared bat	2.19	Chiroptera	
+Namibian long-eared bat	2.28	Chiroptera	
+De winton's long-eared bat	2.03	Chiroptera	
+Silver-haired bat	2.22	Chiroptera	
+Red bat	2.56	Chiroptera	
+Hoary bat	2.49	Chiroptera	
+Yellow bat	2.93	Chiroptera	
+Hairy-tailed bat	2.91	Chiroptera	
+Hairy-tailed bat	3.54	Chiroptera	
+Eastern red bat	2.31	Chiroptera	
+Hoary bat	2.37	Chiroptera	
+Southern yellow bat	2.46	Chiroptera	
+Cuban yellow bat	2.54	Chiroptera	
+Northern yellow bat	2.43	Chiroptera	
+Seminole bat	2.46	Chiroptera	
+Western yellow bat	2.37	Chiroptera	
+Lesser long-fingered bat	1.91	Chiroptera	
+Greater long-fingered bat	2.04	Chiroptera	
+Bent-winged bat	1.73	Chiroptera	
+Bent-winged bat	2.27	Chiroptera	
+Schreibers's long-fingered bat	1.93	Chiroptera	
+Flores tube-nosed bat	2.00	Chiroptera	
+Little brown bat	3.26	Chiroptera	
+Rufous myotis	2.35	Chiroptera	
+Long-fingered bat	1.80	Chiroptera	
+Long-fingered bat	1.85	Chiroptera	
+Long-fingered bat	1.94	Chiroptera	
+Little brown bat	2.52	Chiroptera	
+Little brown bat	2.61	Chiroptera	
+Hairy-legged myotis	2.80	Chiroptera	
+Hairy-legged myotis	2.34	Chiroptera	
+Little brown bat	2.65	Chiroptera	
+Keen's myotis	2.21	Chiroptera	
+Little brown myotis	2.26	Chiroptera	
+Little brown bat	2.57	Chiroptera	
+Mouse-eared bat	2.09	Chiroptera	
+Mouse-eared bat	2.15	Chiroptera	
+Mouse-eared bat	2.17	Chiroptera	
+Mouse-eared bat	2.52	Chiroptera	
+Mouse-eared bat	2.52	Chiroptera	
+Little brown bat	1.93	Chiroptera	
+Riparian myotis	2.20	Chiroptera	
+Northern myotis	2.20	Chiroptera	
+Cave myotis	2.30	Chiroptera	
+Yuma myotis	2.30	Chiroptera	
+Cape serotine	2.14	Chiroptera	
+Guinean serotine	2.61	Chiroptera	
+Samburu pipistrelle	2.26	Chiroptera	
+Banana pipistrelle	2.26	Chiroptera	
+Somali serotine	2.19	Chiroptera	
+Schlieffen's twilight bat	2.32	Chiroptera	
+Evening bat	2.19	Chiroptera	
+Gould's long-eared bat	2.34	Chiroptera	
+Hemprich's desert bat	2.47	Chiroptera	
+Pipistrelle	2.49	Chiroptera	
+Indian pipistrelle	1.99	Chiroptera	
+Western pipistrelle	2.29	Chiroptera	
+Kuhl's pipistrelle	2.30	Chiroptera	
+Kuhl's pipistrelle	2.04	Chiroptera	
+Rusty pipistrelle	2.31	Chiroptera	
+Savi's pipistrelle	1.99	Chiroptera	
+Eastern pipistrelle	2.61	Chiroptera	
+Long-eared bat	2.23	Chiroptera	
+Little yellow bat	2.80	Chiroptera	
+Hinde's lesser house bat	2.41	Chiroptera	
+Giant house bat	2.41	Chiroptera	
+Nut-colored house bat	2.54	Chiroptera	
+Green house bat	2.56	Chiroptera	
+Large forest bat	2.43	Chiroptera	
+Southern forest bat	2.42	Chiroptera	
+Quoll	3.48	Dasyuromorphia	
+Tasmanian devil	2.99	Dasyuromorphia	
+Tasmanian devil	3.63	Dasyuromorphia	
+Fat-tailed dunnart	3.49	Dasyuromorphia	
+Opossum	4.30	Didelphimorpha	
+South American opossum	3.90	Didelphimorpha	
+Southern opossum	3.21	Didelphimorpha	
+Virginia opossum	4.15	Didelphimorpha	
+Thick-tailed opossum	4.20	Didelphimorpha	
+Robinson's mouse opossum	3.94	Didelphimorpha	
+Gray-bellied slender mouse opossum	2.85	Didelphimorpha	
+Long-furred woolly mouse opossum	4.88	Didelphimorpha	
+Red-legged short-tailed opossum	5.22	Didelphimorpha	
+Gracile mouse opossum	4.03	Didelphimorpha	
+Short-tailed opossum	4.17	Didelphimorpha	
+Southern mouse opossum	4.08	Didelphimorpha	
+Dormouse possum	3.48	Diprotodontia	
+Eastern pygmy possum	3.48	Diprotodontia	
+Eastern grey kangaroo	3.91	Diprotodontia	
+Eastern grey kangaroo	4.21	Diprotodontia	
+Parma wallaby	4.02	Diprotodontia	
+Parma wallaby	4.92	Diprotodontia	
+Wallaroo	4.46	Diprotodontia	
+Bennett's wallaby	5.58	Diprotodontia	
+Red kangaroo	3.13	Diprotodontia	
+Brush-tailed possum	3.00	Diprotodontia	
+Koala	3.69	Diprotodontia	
+Long-nosed potoroo	2.51	Diprotodontia	
+Long-nosed potoroo	3.08	Diprotodontia	
+Long-nosed potoroo	4.08	Diprotodontia	
+Long-nosed potoroo	4.73	Diprotodontia	
+Hairy-nosed wombat	4.05	Diprotodontia	
+Wombat	3.99	Diprotodontia	
+Rock hyrax	4.06	Hyracoidea	
+Eurasian hedgehog	3.66	Insectivora	
+Mole shrew	2.37	Insectivora	
+Common shrew	2.91	Insectivora	
+Long-tailed shrew	2.90	Insectivora	
+Long-clawed shrew	2.75	Insectivora	
+Mole	2.50	Insectivora	
+Japanese shrew mole	2.37	Insectivora	
+Greater hedgehog tenrec	5.03	Insectivora	
+Japanese hare	3.38	Lagomorpha	
+Mountain hare	3.25	Lagomorpha	
+Rabbit	2.50	Lagomorpha	
+Rabbit	2.88	Lagomorpha	
+Rabbit	3.09	Lagomorpha	
+Rabbit	3.26	Lagomorpha	
+Rabbit	3.42	Lagomorpha	
+Rabbit	3.52	Lagomorpha	
+Rabbit	3.57	Lagomorpha	
+Cape elephant shrew	5.98	Macroscelidea	
+Duck-billed platypus	3.06	Monotremata	
+Short-nosed echidna	2.89	Monotremata	
+Northern brown bandicoot	4.67	Peramelemorphia	
+Southern brown bandicoot	4.62	Peramelemorphia	
+Rabbit-eared bandicoot. bilby	4.29	Peramelemorphia	
+Eastern barred bandicoot	4.42	Peramelemorphia	
+Long-nosed bandicoot	4.25	Peramelemorphia	
+Long-nosed bandicoot	4.49	Peramelemorphia	
+Long-nosed bandicoot	4.63	Peramelemorphia	
+Donkey	4.12	Perissodactyla	
+Horse	2.95	Perissodactyla	
+Horse	3.15	Perissodactyla	
+Horse	3.15	Perissodactyla	
+Horse	3.21	Perissodactyla	
+Horse	3.38	Perissodactyla	
+Horse	3.48	Perissodactyla	
+Mule	3.56	Perissodactyla	
+Black rhinoceros	3.34	Perissodactyla	
+Baird's tapir	2.54	Perissodactyla	
+Malayan tapir	2.75	Perissodactyla	
+South American tapir	3.78	Perissodactyla	
+Marmoset	3.43	Primates	
+Pygmy marmoset	3.48	Primates	
+Howler monkey	3.84	Primates	
+Howler monkey	3.63	Primates	
+Howler monkey	3.63	Primates	
+Spider monkey	2.88	Primates	
+Spider monkey	3.63	Primates	
+Spider monkey	3.09	Primates	
+Black-handed spider monkey	3.25	Primates	
+Spider monkey	3.19	Primates	
+Spider monkey	3.47	Primates	
+Titi monkey	2.30	Primates	
+Titi monkey	2.26	Primates	
+Capuchin monkey	3.98	Primates	
+Capuchin monkey	3.70	Primates	
+Capuchin monkey	3.80	Primates	
+Capuchin monkey	3.88	Primates	
+Black-striped capuchin	3.40	Primates	
+Black capuchin	3.04	Primates	
+Capuchin monkey	3.40	Primates	
+Woolly monkey	3.54	Primates	
+Squirrel monkey	3.30	Primates	
+Allen's monkey	5.19	Primates	
+Mangabey	3.51	Primates	
+Mangabey	4.73	Primates	
+Mangabey	4.90	Primates	
+Mangabey	3.74	Primates	
+Mustached monkey	3.54	Primates	
+Mustached monkey	5.21	Primates	
+De Brazza's monkey	4.87	Primates	
+White-nosed Guenon	4.40	Primates	
+Grivet	2.95	Primates	
+Grivet	3.91	Primates	
+Grivet	4.19	Primates	
+Grivet	4.48	Primates	
+Grivet	4.48	Primates	
+Grivet	4.55	Primates	
+Grivet	4.56	Primates	
+Vervet	4.19	Primates	
+Green monkey	3.76	Primates	
+Green monkey	4.02	Primates	
+Green monkey	4.04	Primates	
+Savannah Guenon	3.93	Primates	
+Black-and-white colobus monkey	3.61	Primates	
+Black colobus monkey	3.61	Primates	
+Patas monkey	3.52	Primates	
+Patas monkey	3.83	Primates	
+Black mangabey	3.76	Primates	
+Stump-tailed macaque	3.46	Primates	
+Crab-eating macaque	3.41	Primates	
+Crab-eating macaque	3.45	Primates	
+Japanese macaque	3.56	Primates	
+Macaque	3.43	Primates	
+Rhesus monkey	3.14	Primates	
+Rhesus monkey	3.59	Primates	
+Pigtail macaque	3.56	Primates	
+Celebes ape	3.45	Primates	
+Liontail macaque	3.18	Primates	
+Liontail macaque	3.63	Primates	
+Barbary ape	3.50	Primates	
+Mandrill	3.50	Primates	
+Talapoin	3.67	Primates	
+Proboscis monkey	4.32	Primates	
+Hamadryas baboon	3.53	Primates	
+Hamadryas baboon	3.54	Primates	
+Mouse lemur	3.12	Primates	
+Gorilla	3.57	Primates	
+Gorilla	4.16	Primates	
+Western lowland gorilla	3.52	Primates	
+Human	3.50	Primates	
+Chimpanzee	3.46	Primates	
+Chimpanzee	3.63	Primates	
+Chimpanzee	3.76	Primates	
+Chimpanzee	3.85	Primates	
+Orangutan	3.60	Primates	
+Orangutan	3.66	Primates	
+Orangutan	4.10	Primates	
+Dark-handed gibbon	2.77	Primates	
+Dark-handed gibbon	3.48	Primates	
+Kloss's gibbon	3.26	Primates	
+White-handed gibbon	2.93	Primates	
+White-handed gibbon	3.24	Primates	
+Silvery gibbon	3.24	Primates	
+Gray gibbon	3.32	Primates	
+Gibbon (hybrid)	3.50	Primates	
+Siamang	2.98	Primates	
+Siamang	3.76	Primates	
+Crowned lemur	3.47	Primates	
+Crowned lemur	3.71	Primates	
+Lemur (hybrid)	3.05	Primates	
+Brown lemur	3.09	Primates	
+Brown lemur	3.62	Primates	
+Brown lemur	2.73	Primates	
+Brown lemur	2.86	Primates	
+Black lemur	2.68	Primates	
+Black lemur	2.74	Primates	
+Black lemur	3.13	Primates	
+Black lemur	3.59	Primates	
+Mongoose lemur	3.09	Primates	
+Mongoose lemur	3.41	Primates	
+Red-bellied lemur	2.59	Primates	
+Bamboo lemur	3.18	Primates	
+Bamboo lemur	3.29	Primates	
+Bamboo lemur	3.25	Primates	
+Bamboo lemur	3.18	Primates	
+Broad-nosed gentle lemur	3.25	Primates	
+Ring-tailed lemur	3.11	Primates	
+Ring-tailed lemur	3.45	Primates	
+Bushbaby	3.96	Primates	
+Bushbaby	4.19	Primates	
+Dwarf galago	3.93	Primates	
+Slow loris	3.58	Primates	
+Greater bushbaby	3.24	Primates	
+Greater bushbaby	3.98	Primates	
+Potto	3.29	Primates	
+Potto	3.30	Primates	
+Potto	4.14	Primates	
+Weasel lemur	3.25	Primates	
+Tarsier	5.26	Primates	
+Asian elephant	4.03	Proboscidea	
+African elephant	4.11	Proboscidea	
+African elephant	4.44	Proboscidea	
+African elephant	4.45	Proboscidea	
+Chincilla rat	3.60	Rodentia	
+Cape dune mole-rat	2.90	Rodentia	
+Damaraland mole-rat	3.60	Rodentia	
+African mole-rat	3.40	Rodentia	
+African mole-rat	3.20	Rodentia	
+African silvery mole-rat	3.05	Rodentia	
+Naked mole-rat	2.90	Rodentia	
+Guinea pig	3.44	Rodentia	
+Guinea pig	3.50	Rodentia	
+Guinea pig	3.64	Rodentia	
+Guinea pig	3.92	Rodentia	
+Guinea pig	4.10	Rodentia	
+Guinea pig	4.41	Rodentia	
+Wild guinea pig	4.55	Rodentia	
+Patagonian cavy	3.70	Rodentia	
+Mara	3.85	Rodentia	
+Cui	3.95	Rodentia	
+Rock cavy	3.10	Rodentia	
+Chinchilla	3.96	Rodentia	
+Plains viscacha	3.30	Rodentia	
+Tuco-tuco	3.77	Rodentia	
+Tuco-tuco	4.30	Rodentia	
+Tuco-tuco	3.90	Rodentia	
+Tuco-tuco	4.55	Rodentia	
+Tuco-tuco	3.77	Rodentia	
+Tuco-tuco	3.88	Rodentia	
+Tuco-tuco	3.56	Rodentia	
+Tuco-tuco	4.90	Rodentia	
+Tuco-tuco	2.80	Rodentia	
+Tuco-tuco	3.16	Rodentia	
+Tuco-tuco	4.80	Rodentia	
+Tuco-tuco	3.20	Rodentia	
+Tuco-tuco	3.73	Rodentia	
+Cayenne spiny rat	5.47	Rodentia	
+Guaira spiny rat	6.21	Rodentia	
+Venezuelan spiny-rat	6.25	Rodentia	
+Central American spiny rat	3.85	Rodentia	
+Trinidad spiny rat	6.25	Rodentia	
+Venezuelan spiny-rat	6.30	Rodentia	
+Eastern pocket gopher	3.31	Rodentia	
+Eastern pocket gopher	3.35	Rodentia	
+Eastern pocket gopher	3.67	Rodentia	
+Eastern pocket gopher	3.67	Rodentia	
+Western pocket gopher	4.21	Rodentia	
+Western pocket gopher	4.71	Rodentia	
+Western pocket gopher	5.30	Rodentia	
+Western pocket gopher	4.58	Rodentia	
+Western pocket gopher	4.86	Rodentia	
+Western pocket gopher	5.26	Rodentia	
+Western pocket gopher	4.30	Rodentia	
+Western pocket gopher	5.01	Rodentia	
+Western pocket gopher	4.98	Rodentia	
+Western pocket gopher	5.22	Rodentia	
+Western pocket gopher	5.19	Rodentia	
+Western pocket gopher	4.38	Rodentia	
+Western pocket gopher	5.37	Rodentia	
+Western pocket gopher	4.67	Rodentia	
+Western pocket gopher	5.59	Rodentia	
+Western pocket gopher	2.17	Rodentia	
+Western pocket gopher	2.57	Rodentia	
+Western pocket gopher	5.20	Rodentia	
+Western pocket gopher	5.38	Rodentia	
+Western pocket gopher	5.60	Rodentia	
+Western pocket gopher	4.38	Rodentia	
+Kangaroo rat	4.12	Rodentia	
+Kangaroo rat	3.82	Rodentia	
+Kangaroo rat	3.71	Rodentia	
+Kangaroo rat	3.00	Rodentia	
+Kangaroo rat	3.52	Rodentia	
+Kangaroo rat	3.49	Rodentia	
+Kangaroo rat	4.23	Rodentia	
+Kangaroo rat	4.72	Rodentia	
+Kangaroo rat	3.45	Rodentia	
+Bannertail	4.16	Rodentia	
+Bannertail	4.27	Rodentia	
+Trinidad spiny pocket mouse	2.77	Rodentia	
+Short-tailed porcupine	2.90	Rodentia	
+Spiny mouse	2.64	Rodentia	
+Pampean grassland mouse	2.43	Rodentia	
+Grass mouse	2.73	Rodentia	
+Grass mouse	2.92	Rodentia	
+Grass mouse	2.77	Rodentia	
+Grass mouse	3.05	Rodentia	
+Grass mouse	3.16	Rodentia	
+Field mouse	3.11	Rodentia	
+Wood mouse	3.24	Rodentia	
+Wood mouse	3.29	Rodentia	
+Wood mouse	3.41	Rodentia	
+African grass rat	3.11-3.40	Rodentia	
+Water vole	2.79	Rodentia	
+Water vole	3.03	Rodentia	
+Grass mouse	2.99	Rodentia	
+Grass mouse	2.89	Rodentia	
+Vesper mouse	2.80	Rodentia	
+Hummelinck's vesper mouse	3.36	Rodentia	
+Vesper mouse	2.90	Rodentia	
+Vesper mouse	3.47	Rodentia	
+Vesper mouse	3.10	Rodentia	
+Mouse-like hamster	3.11	Rodentia	
+Red-backed mouse	2.81	Rodentia	
+Red-backed mouse	2.81	Rodentia	
+Red-backed mouse	2.93	Rodentia	
+Red-backed mouse	3.19	Rodentia	
+Red-backed mouse	2.99	Rodentia	
+Indian desert rat	3.18	Rodentia	
+Chinese hamster	3.05	Rodentia	
+Chinese hamster	3.20	Rodentia	
+Chinese hamster	3.99	Rodentia	
+Common hamster	3.44	Rodentia	
+Common hamster	3.57	Rodentia	
+Highland desert mouse	2.83	Rodentia	
+Mole-lemming	3.70	Rodentia	
+Mole-lemming	2.87	Rodentia	
+Mole-lemming	3.04	Rodentia	
+Mole-lemming	2.99	Rodentia	
+Northern pygmy gerbil	3.64	Rodentia	
+Northern pygmy gerbil	4.00	Rodentia	
+N/A	3.69	Rodentia	
+N/A	2.81	Rodentia	
+Marsh rat	3.26	Rodentia	
+Jird	3.64	Rodentia	
+Golden hamster	2.80	Rodentia	
+Golden hamster	3.21	Rodentia	
+Golden hamster	3.43	Rodentia	
+Golden hamster	3.54	Rodentia	
+Golden hamster	3.59	Rodentia	
+Golden hamster	4.62	Rodentia	
+Forest small rice rat	2.78	Rodentia	
+Field vole	3.42	Rodentia	
+Vole	2.91	Rodentia	
+Vole	2.92	Rodentia	
+Vole	2.62	Rodentia	
+Vole	2.50	Rodentia	
+Vole	2.83	Rodentia	
+Vole	3.12	Rodentia	
+Prairie vole	2.87	Rodentia	
+Vole	2.61	Rodentia	
+Vole	2.95	Rodentia	
+Meadow vole	2.63	Rodentia	
+Vole	2.58	Rodentia	
+Ryukyu mouse	3.02	Rodentia	
+Fawn-colored mouse	2.98	Rodentia	
+Cook's mouse	3.07	Rodentia	
+Macedonian mouse	3.10	Rodentia	
+House mouse	2.45	Rodentia	
+House mouse	2.92	Rodentia	
+House mouse	2.93	Rodentia	
+House mouse	3.02	Rodentia	
+House mouse	3.25	Rodentia	
+House mouse	3.26	Rodentia	
+House mouse	3.26	Rodentia	
+House mouse	3.28	Rodentia	
+House mouse	3.31	Rodentia	
+House mouse	3.35	Rodentia	
+House mouse	3.38	Rodentia	
+House mouse	3.45	Rodentia	
+House mouse	3.52	Rodentia	
+House mouse	4.03	Rodentia	
+Southwestern Asian house mouse	3.08	Rodentia	
+Southeastern Asian house mouse	3.07	Rodentia	
+Western European house mouse	3.35	Rodentia	
+Japanese wild mouse	3.08	Rodentia	
+Eastern European house mouse	3.28	Rodentia	
+Tobacco mouse	3.22	Rodentia	
+Tobacco mouse	3.97	Rodentia	
+Mound-building mouse. Steppe mouse	3.07	Rodentia	
+Algerian mouse	3.68	Rodentia	
+Narrow-footed bristly mouse	3.28	Rodentia	
+Pack rat	3.82	Rodentia	
+Unicolored arboreal rice rat	3.06	Rodentia	
+Pygmy rice rat	2.80	Rodentia	
+Muskrat	2.78	Rodentia	
+Tomes's rice rat	3.78	Rodentia	
+Talamancan rice rat	3.41	Rodentia	
+Burrowing mouse	2.67	Rodentia	
+Deer mouse	3.24	Rodentia	
+Deer mouse	3.30	Rodentia	
+Deer mouse	4.36	Rodentia	
+Deer mouse	3.57	Rodentia	
+Kage vole	3.62	Rodentia	
+Leaf-eared mouse	2.84	Rodentia	
+Leaf-eared mouse	2.98	Rodentia	
+Leaf-eared mouse	4.17	Rodentia	
+Leaf-eared mouse	3.90	Rodentia	
+Leaf-eared mouse	3.54	Rodentia	
+Brown rat	2.98	Rodentia	
+Brown rat	3.05	Rodentia	
+Brown rat	3.14	Rodentia	
+Brown rat	3.27	Rodentia	
+Brown rat	3.36	Rodentia	
+Brown rat	3.82	Rodentia	
+Brown rat	3.90	Rodentia	
+Black rat	2.63	Rodentia	
+Black rat	3.03	Rodentia	
+Black rat	3.03	Rodentia	
+Black rat	3.14	Rodentia	
+Black rat	3.48	Rodentia	
+Venezuelan climbing mouse	3.69	Rodentia	
+Water rat	2.81	Rodentia	
+Cotton rat	3.96	Rodentia	
+Short-tailed cane mouse	3.81	Rodentia	
+Nutria. coypu	3.60	Rodentia	
+Viscacha rat	3.75	Rodentia	
+Viscacha rat	3.70	Rodentia	
+Viscacha rat	3.70	Rodentia	
+Viscacha rat	3.85	Rodentia	
+Degu	4.30	Rodentia	
+Degu	4.32	Rodentia	
+Viscacha rat	4.40	Rodentia	
+Chozchoz	4.10	Rodentia	
+Viscacha rat	3.80	Rodentia	
+Viscacha rat	4.00	Rodentia	
+Coruro	3.54	Rodentia	
+Coruro	4.20	Rodentia	
+Red viscacha rat	8.40	Rodentia	
+Giant flying squirrel	4.02	Rodentia	
+Gray squirrel	4.46	Rodentia	
+Gray squirrel	5.18	Rodentia	
+Japanese squirrel	3.02	Rodentia	
+Common tree shrew	3.37	Scandentia	
+Common tree shrew	3.73	Scandentia	
+Florida manatee	3.67	Sirenia	
+Florida manatee	4.67	Sirenia	
+Aardvark	4.59	Tubilidentata	
+Aardvark	5.86	Tubilidentata	
+Aardvark	5.87	Tubilidentata	
+Brown-throated three-toed sloth	4.23	Xenartha	
+Northern naked-tailed armadillo	3.98	Xenartha	
+Screaming hairy armadillo	4.46	Xenartha	
+Large hairy armadillo	4.18	Xenartha	
+Southern long-nosed armadillo	4.89	Xenartha	
+Great long-nosed armadillo	4.92	Xenartha	
+Nine-banded armadillo	5.41	Xenartha	
+Hairy long-nosed armadillo	4.32	Xenartha	
+Llanos long-nosed armadillo	5.76	Xenartha	
+Seven-banded armadillo	5.17	Xenartha	
+Six-banded armadillo	4.16	Xenartha	
+Giant armadillo	4.47	Xenartha	
+Pichi. Dwarf armadillo	4.21	Xenartha	
+Giant anteater	4.49	Xenartha	
+Southern tamandua	4.11	Xenartha	
+Giant anteater	4.15	Xenarthra	
