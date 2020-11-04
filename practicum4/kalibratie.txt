@@ -1,4 +1,4 @@
-"concentratie" "piekoppervlake"
+"concentratie" "piekoppervlakte"
 "1" 0.0511 2886
 "2" 0.1021 4861
 "3" 0.2042 9456
