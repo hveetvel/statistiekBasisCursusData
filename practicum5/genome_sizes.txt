@@ -1,4 +1,4 @@
-Common Name	C-value	Order	
+﻿Common Name	C-value	Order	
 Cape golden mole	6.32	Afrosoricida	
 Golden mole	4.10	Afrosoricida	
 Addax	3.98	Artiodactyla	
@@ -655,7 +655,7 @@ Field mouse	3.11	Rodentia
 Wood mouse	3.24	Rodentia	
 Wood mouse	3.29	Rodentia	
 Wood mouse	3.41	Rodentia	
-African grass rat	3.11-3.40	Rodentia	
+African grass rat	3.11	Rodentia	
 Water vole	2.79	Rodentia	
 Water vole	3.03	Rodentia	
 Grass mouse	2.99	Rodentia	
